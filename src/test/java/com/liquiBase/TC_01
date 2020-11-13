@@ -1,5 +1,0 @@
-TC0101 - Write a Automated Test Case in Selenium to load Screen from given URL and Search for a model number on it.
-	 	Pass Criteria of Test Case is "Search Result displays model number entered".
-		Screen URL: https://www.supplyhouse.com/Boiler-Parts-Finder-Tool
-		Test Data: AT082410C
-		Parameterize the Test to run with various test data values.
