@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parameter testing" thread-count="3">
+
+	<parameter name="productSKU" value="AT082410C" />
+	<parameter name="productSKU" value="382-200-611" />
+	
+		<test name="test">
+				<classes>
+					<class name="com.splHouse.SupplyHouse"> </class>
+				</classes>
+		</test>
+</suite>
